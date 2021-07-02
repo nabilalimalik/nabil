@@ -1,7 +1,6 @@
-/*@keyframes change{
-  from {background-color: #6C757D;}
-  to {background-color: #aac9fa;}
-}*/
+body { 
+    padding-top: auto; 
+}
 
 .progress-bar-color{
 	-moz-transition: all .2s ease-in;
