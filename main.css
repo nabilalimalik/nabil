@@ -1,0 +1,37 @@
+/*@keyframes change{
+  from {background-color: #6C757D;}
+  to {background-color: #aac9fa;}
+}*/
+
+.progress-bar-color{
+	-moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+	background-color: #6C757D !important;
+}
+
+.progress-bar-color:hover{
+	background-color: #aac9fa !important;
+}
+
+.containerpad{
+	padding-bottom: 50px;
+}
+
+.progress{
+	height: 50px;
+}
+
+.myname{
+	-moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+}
+
+.myname:hover{
+	color: #4b586e !important;
+	font-size: 500%;
+	cursor: crosshair;
+}
